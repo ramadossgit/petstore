@@ -1,0 +1,33 @@
+[INFO ] 2024-02-12 21:12:44.899 [main] UserTest2 - ---------------Creating User----------------
+[INFO ] 2024-02-12 21:12:48.413 [main] UserTest2 - ---------------User Created----------------
+[INFO ] 2024-02-12 21:12:48.417 [main] UserTest2 - ---------------Status code valdiated----------------
+[INFO ] 2024-02-12 21:12:48.451 [main] UserTest2 - ---------------Reading User Info----------------
+[INFO ] 2024-02-12 21:12:48.689 [main] UserTest2 - ---------------Reading User Info Completed----------------
+[INFO ] 2024-02-12 21:12:48.697 [main] UserTest2 - ---------------Update User----------------
+[INFO ] 2024-02-12 21:12:48.839 [main] UserTest2 - ---------------Update UserCompleted----------------
+[INFO ] 2024-02-12 21:12:48.839 [main] UserTest2 - ---------------Read the Updated User---------------
+[INFO ] 2024-02-12 21:12:48.941 [main] UserTest2 - ---------------Read Updated User Completed----------------
+[INFO ] 2024-02-12 21:12:48.946 [main] UserTest2 - ---------------Deleted User ----------------
+[INFO ] 2024-02-12 21:12:49.053 [main] UserTest2 - ---------------Delete User Completed----------------
+[INFO ] 2024-02-12 21:13:35.858 [main] UserTest2 - ---------------Creating User----------------
+[INFO ] 2024-02-12 21:13:39.234 [main] UserTest2 - ---------------User Created----------------
+[INFO ] 2024-02-12 21:13:39.250 [main] UserTest2 - ---------------Status code valdiated----------------
+[INFO ] 2024-02-12 21:13:39.278 [main] UserTest2 - ---------------Reading User Info----------------
+[INFO ] 2024-02-12 21:13:39.506 [main] UserTest2 - ---------------Reading User Info Completed----------------
+[INFO ] 2024-02-12 21:13:39.516 [main] UserTest2 - ---------------Update User----------------
+[INFO ] 2024-02-12 21:13:39.665 [main] UserTest2 - ---------------Update UserCompleted----------------
+[INFO ] 2024-02-12 21:13:39.665 [main] UserTest2 - ---------------Read the Updated User---------------
+[INFO ] 2024-02-12 21:13:39.764 [main] UserTest2 - ---------------Read Updated User Completed----------------
+[INFO ] 2024-02-12 21:13:39.768 [main] UserTest2 - ---------------Deleted User ----------------
+[INFO ] 2024-02-12 21:13:39.868 [main] UserTest2 - ---------------Delete User Completed----------------
+[INFO ] 2024-02-12 21:15:52.306 [main] UserTest2 - ---------------Creating User----------------
+[INFO ] 2024-02-12 21:15:56.384 [main] UserTest2 - ---------------User Created----------------
+[INFO ] 2024-02-12 21:15:56.397 [main] UserTest2 - ---------------Status code valdiated----------------
+[INFO ] 2024-02-12 21:15:56.435 [main] UserTest2 - ---------------Reading User Info----------------
+[INFO ] 2024-02-12 21:15:56.778 [main] UserTest2 - ---------------Reading User Info Completed----------------
+[INFO ] 2024-02-12 21:15:56.783 [main] UserTest2 - ---------------Update User----------------
+[INFO ] 2024-02-12 21:15:56.929 [main] UserTest2 - ---------------Update UserCompleted----------------
+[INFO ] 2024-02-12 21:15:56.929 [main] UserTest2 - ---------------Read the Updated User---------------
+[INFO ] 2024-02-12 21:15:57.039 [main] UserTest2 - ---------------Read Updated User Completed----------------
+[INFO ] 2024-02-12 21:15:57.043 [main] UserTest2 - ---------------Deleted User ----------------
+[INFO ] 2024-02-12 21:15:57.179 [main] UserTest2 - ---------------Delete User Completed----------------
